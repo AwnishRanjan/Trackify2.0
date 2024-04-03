@@ -1,10 +1,13 @@
-# Tracify: Real Time Object Tracking
+# Tracify2.0 : Real Time Object Tracking
 
-Tracify is a versatile surveillance system that combines object detection and multi-object tracking (MOT) to provide enhanced security and monitoring capabilities.
+Tracify2.0  is the updated version of Tracify where some feature are added :-
+    i) Multiple object tracking at single frame / previous version is detecting only single object 
+   ii) Trace the path of object till Multiple frames 
+  
 
 ## Introduction
 
-Tracify utilizes computer vision techniques for real-time object detection and tracking with YOLOv5 and DeepSORT algorithms. With Tracify, you can monitor and track objects or individuals within a specified area with high accuracy and efficiency.
+Tracify utilizes computer vision techniques for real-time object detection and tracking with YOLOv5 and DeepSORT algorithms. With Tracify, you can monitor and track objects or individuals within a specified area with high accuracy and efficiency.it is versatile surveillance system that combines object detection and multi-object tracking (MOT) to provide enhanced security and monitoring capabilities.
 
 ## Features
 
