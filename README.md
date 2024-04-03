@@ -1,13 +1,9 @@
 # Tracify2.0 : Real Time Object Tracking and Tracing 
 
 Tracify2.0  is the updated version of Tracify where some feature are added :-
--   i) Multiple object tracking at single frame / previous version is detecting only single object 
--  ii) Trace the path of object till Multiple frames
-- iii) YOLOv9 is used here 
-
-
-    
-  
+-  Multiple object tracking at single frame / previous version is detecting only single object 
+-  Trace the path of object till Multiple frames
+-  YOLOv9 is used here previous version  was based on YOLOv5
 
 ## Introduction
 
