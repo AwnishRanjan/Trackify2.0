@@ -1,13 +1,14 @@
-# Tracify2.0 : Real Time Object Tracking
+# Tracify2.0 : Real Time Object Tracking and Tracing 
 
 Tracify2.0  is the updated version of Tracify where some feature are added :-
     i) Multiple object tracking at single frame / previous version is detecting only single object 
-   ii) Trace the path of object till Multiple frames 
+   ii) Trace the path of object till Multiple frames
+   iii) YOLOv9 is used here 
   
 
 ## Introduction
 
-Tracify utilizes computer vision techniques for real-time object detection and tracking with YOLOv5 and DeepSORT algorithms. With Tracify, you can monitor and track objects or individuals within a specified area with high accuracy and efficiency.it is versatile surveillance system that combines object detection and multi-object tracking (MOT) to provide enhanced security and monitoring capabilities.
+Tracify 2.0  utilizes computer vision techniques for real-time object detection and tracking with YOLOv9 and DeepSORT algorithms. With Tracify, you can monitor and track objects or individuals within a specified area with high accuracy and efficiency.it is versatile surveillance system that combines object detection and multi-object tracking (MOT) to provide enhanced security and monitoring capabilities.
 
 ## Features
 
@@ -23,9 +24,9 @@ Tracify utilizes computer vision techniques for real-time object detection and t
 
 Before installing Tracify, ensure you have the following prerequisites installed:
 
-- Python 3.8
+- Python 3.10
 - Git
-- Requirements specified in yolov5/requirements.txt
+- Requirements specified in requirements.txt
 - PyTorch
 - Conda
 
